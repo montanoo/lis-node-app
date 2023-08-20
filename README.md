@@ -4,6 +4,7 @@
 
 - Correr: `git clone https://github.com/montanx/lis-node-app.git`
 - Abrir la consola de dicho proyecto y ejecutar: `npm install`
+- Correr en la consola: `nodemon ./app.js`
 - Abrir un navegador de preferencia o incluso Postman, dirigirse a la ruta `localhost:5000/api/articles`, donde encontrara articulos creados.
 
 ## ¿Como funciona?
